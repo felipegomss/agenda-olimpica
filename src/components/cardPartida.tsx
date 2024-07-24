@@ -77,7 +77,7 @@ export default function CardPartida(partida: Partida) {
                     <Image
                       src="/olympics.png"
                       alt="Logo Olympics.com"
-                      className="bg-white p-1 rounded-md"
+                      className="bg-white p-1 rounded-xl"
                       width={31}
                       height={20}
                     />
